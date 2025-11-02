@@ -2,3 +2,5 @@ merge_data.csv
 english.model
 urdu.model
 data
+best_model.pt
+checkpoint_epoch_20.pt
